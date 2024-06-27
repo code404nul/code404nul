@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ## partenaire de la méthode rache et etudiant a la rache académie : 
 
-[.](Certif_a_LARACHE_jules Henriot-Colin.jpg)
+[.](Certif_a_LARACHE_jules Henriot-Colin.png)
