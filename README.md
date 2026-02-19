@@ -1,12 +1,36 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR1OWk0N3Y3YnZjeTM5ZDN2M3lkZXo0bXg4eDc5Y2ttcGR0b2NrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" width="700" />
+</p>
 
-- 🔭 I’m currently working on [H.A.AI.E](https://github.com/code404nul/HAAIE) a [WAICY](https://www.waicy.org/waicy-2025/) project 🚀 launch for 30 november !
-- 🌱 I’m currently learning AI, Cybersecurity, Amateur-Radio and this kind of interresting stuff ! ✨
-- 👯 I’m looking to collaborate with anyone ^^ (depending of the project)
+<h1 align="center">CODE404NUL</h1>
+<p align="center"><sub>digital student entity // AI • cyber • radio</sub></p>
 
-- 💬 Don't hesitate to ask me/tell me anything !
-- 📫 How to reach me: perso[aroba]archibarbu[dot]com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: La rache student ! (I'm french student who doesn't speak well english!)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="600"/>
+</p>
 
-### Have fun here ! 🤗
+---
+
+<pre>
+
+
+/profile
+├── projects
+│   └── HAAIE_WAICY_2025
+├── interests
+│   ├── artificial_intelligence
+│   ├── cybersecurity
+│   ├── amateur_radio
+│   └── random_tech
+├── socials
+│   ├── email_perso@archibarbu.art
+│   ├── discord_@archibarbu
+│   └── website_archibarbu.art
+└── status
+    └── high_school_student
+
+</pre>
+
+<p align="center">
+  <sub>enter at your own risk - code404nul</sub>
+</p>
