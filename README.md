@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">CODE404NUL</h1>
-<p align="center"><sub>digital student entity // AI • cyber • radio</sub></p>
+<p align="center"><sub>// AI • cyber • radio • more...</sub></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="600"/>
