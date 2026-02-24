@@ -6,7 +6,7 @@
 <p align="center"><sub>// AI • cyber • radio • more...</sub></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="600"/>
+  <img src="https://raw.githubusercontent.com/CODE404NUL/CODE404NUL/output/github-contribution-grid-snake-dark.svg" width="600"/>
 </p>
 
 ---
