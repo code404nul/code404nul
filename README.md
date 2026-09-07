@@ -30,7 +30,8 @@
     └── high_school_student
 
 </pre>
-
 <p align="center">
-  <sub>enter at your own risk - code404nul</sub>
+  <img src="archibarbu-avatar-4096.png" width="60"/>
+  <br/>
+  <sub>archibarbu - code404nul</sub>
 </p>
