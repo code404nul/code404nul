@@ -1,37 +1,4 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR1OWk0N3Y3YnZjeTM5ZDN2M3lkZXo0bXg4eDc5Y2ttcGR0b2NrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" width="700" />
-</p>
-
-<h1 align="center">CODE404NUL</h1>
-<p align="center"><sub>// AI • cyber • radio • more...</sub></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CODE404NUL/CODE404NUL/output/github-contribution-grid-snake-dark.svg" width="600"/>
-</p>
-
----
-
-<pre>
-
-
-/profile
-├── projects
-│   └── HAAIE_WAICY_2025
-├── interests
-│   ├── artificial_intelligence
-│   ├── cybersecurity
-│   ├── amateur_radio
-│   └── random_tech
-├── socials
-│   ├── email_perso@archibarbu.art
-│   ├── discord_@archibarbu
-│   └── website_archibarbu.art
-└── status
-    └── high_school_student
-
-</pre>
-<p align="center">
-  <img src="archibarbu-avatar-4096.png" width="60"/>
-  <br/>
-  <sub>archibarbu - code404nul</sub>
+  Student @EPITA · local AI, cybersecurity, ham radio<br>
+  <a href="https://www.archibarbu.art">Portfolio</a> · <a href="https://archibarbu.art/attestation/cv.pdf">CV</a>
 </p>
