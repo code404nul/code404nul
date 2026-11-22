@@ -12,7 +12,7 @@
 
 ### Currently working on
 
-- **Reinforcement learning for drones**: experimenting with [`gym-pybullet-drones`](https://github.com/learnsyslab/gym-pybullet-drones) (a couple of small PRs so far)
+- **Reinforcement learning for drones**: experimenting with [`gym-pybullet-drones`](https://github.com/learnsyslab/gym-pybullet-drones)
 - **[Epi'Tortue](https://github.com/epi-tortue)**: an autonomous electric boat built for the **Microtransat Challenge** (Atlantic crossing)
 
 ---
